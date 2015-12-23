@@ -8,8 +8,8 @@
 
 #import "MAThemeKit.h"
 
-static CGFloat const kDefaultNavigationBarFontSize = 22;
-static CGFloat const kDefaultTabBarFontSize = 14;
+static CGFloat const kDefaultNavigationBarFontSize = 17;
+static CGFloat const kDefaultTabBarFontSize = 10;
 
 
 @implementation MAThemeKit
